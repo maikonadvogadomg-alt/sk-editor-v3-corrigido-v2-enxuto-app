@@ -1,19 +1,19 @@
 # 📋 Plano do projeto: SK-Editor-v3-Corrigido-v2-enxuto
 
-_Gerado em 14/10/2026, 07:37:54 — sem IA, lendo os arquivos._
+_Gerado em 14/10/2026, 07:39:29 — sem IA, lendo os arquivos._
 
 ## 📊 Visão geral
 | Item | Valor |
 |---|---|
-| Arquivos | 123 |
-| Linhas | 36.836 |
+| Arquivos | 125 |
+| Linhas | 36.932 |
 | Telas/páginas | 1 |
 | Rotas do backend | 31 |
 | Chamadas do app | 27 |
 | Tabelas do banco | 4 |
 | Variáveis de ambiente | 30 |
 
-**Linguagens:** TypeScript (React) (88), TypeScript (12), Outros (4), JavaScript (4), Imagem (4), JSON (3), Markdown (3), YAML (2), HTML (2), CSS (1)
+**Linguagens:** TypeScript (React) (88), TypeScript (12), Outros (4), JSON (4), JavaScript (4), Imagem (4), YAML (3), Markdown (3), HTML (2), CSS (1)
 
 ## 💡 O que fazer (em ordem)
 1. 🧹 Tirar a Replit de 16 arquivo(s) (🏗️ Preparar → Fazer tudo)
@@ -321,6 +321,7 @@ _Só os nomes. Os valores (chaves, senhas) nunca vão no código nem no GitHub._
 ├─ 📁 .github/
 │  └─ 📁 workflows/
 │     ├─ apk-capacitor.yml
+│     ├─ apk.yml
 │     └─ desktop-exe.yml
 ├─ 📁 electron/
 │  ├─ main.cjs
@@ -442,6 +443,7 @@ _Só os nomes. Os valores (chaves, senhas) nunca vão no código nem no GitHub._
 ├─ .nojekyll
 ├─ .npmrc
 ├─ 404.html
+├─ apk.config.json
 ├─ capacitor.config.json
 ├─ COMO-RODAR.md
 ├─ index.html
