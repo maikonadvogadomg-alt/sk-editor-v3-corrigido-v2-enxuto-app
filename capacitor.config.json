@@ -1,0 +1,8 @@
+{
+  "appId": "com.app.workspaceskeditor2",
+  "appName": "workspace-sk-editor2",
+  "webDir": "dist/public",
+  "server": {
+    "androidScheme": "https"
+  }
+}
